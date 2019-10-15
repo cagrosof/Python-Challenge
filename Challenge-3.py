@@ -1,6 +1,6 @@
 import re
 
-with open("capital.txt") as f:
+with open("challenge-3.txt") as f:
     text = f.read()
 
 
